@@ -1,0 +1,26 @@
+{
+  "name": "libreriadigital-act-clase",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohanNP-32/libreriadigital-act-clase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohanNP-32/libreriadigital-act-clase/issues"
+  },
+  "homepage": "https://github.com/JohanNP-32/libreriadigital-act-clase#readme",
+  "description": "",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "express": "^5.2.1",
+    "graphql": "^16.13.0"
+  }
+}
